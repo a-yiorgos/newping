@@ -1,7 +1,7 @@
 newping
 =======
 
-A TCP ping utility from the early 90s
+Your nmap -p [port] [host] before nmap
 
 This version of newping is a slight rewrite to support ping at any arbitirary
 TCP port specified by the user.  The older version is available at
