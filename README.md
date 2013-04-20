@@ -20,10 +20,15 @@ Yiorgos Adamopoulos (adamo@ntua.gr) $Date: 1996/07/01 18:45:09 $
 Tested on Solaris2.5 (Sparc) with gcc-2.7.2.
 
 Switches:
+
 	-d:     debug mode (dafaults to no)
+
 	-u:     udp ping (defaults to tcp)
+
 	-p:     specify port to be probed (defaults to 37 (time))
+
 	-S:     string to send (defaults to "foo")
+
 	-q:     quiet mode (set $status only)
 
 For historic reasons only.
